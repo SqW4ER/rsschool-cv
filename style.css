@@ -52,6 +52,11 @@ body {
 
 main {
   width: 68%;
+  padding: 10px;
+}
+
+main div {
+  margin-top: 10px;
 }
 
 main img {
@@ -63,6 +68,12 @@ main img {
 
 aside {
   width: 28%;
+  padding: 10px;
+}
+
+aside div {
+  padding-left: 5px;
+  border-left: 2px solid black;
 }
 
 aside ul {
